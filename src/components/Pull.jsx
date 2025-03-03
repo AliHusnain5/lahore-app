@@ -6,6 +6,8 @@ const Pull = () => {
     <div style={{marginTop:"50px"}}>
       jb kisi dosry ka code chlaye <br></br>
       git pull origin "branch name " <br></br>
+      <p>nizam pora </p>
+      <p>ali </p>
       <p>muhammad zain </p>
       git code .
 
