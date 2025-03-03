@@ -8,4 +8,4 @@ const FristPage = () => {
   )
 }
 
-export default FristPage
+export default FristPage;

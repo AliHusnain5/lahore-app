@@ -10,7 +10,8 @@ const CreateRepositry = () => {
       git status<br></br>
       git add . <br></br>
       git commit -m"massage"<br></br>
-      git remote git repositry git push origin "branch name "<br></br>
+      git remote git repositry (git ka linke past krna h yaha per )
+      git push origin "branch name "<br></br>
       git status
 
 
